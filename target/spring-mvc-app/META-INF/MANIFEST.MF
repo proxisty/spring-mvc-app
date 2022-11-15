@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: proxy_3dz2k5y
+Build-Jdk: 1.8.0_352
+
